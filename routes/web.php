@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/todo', "HomeController@index");
+Route::get('/', "HomeController@index");
