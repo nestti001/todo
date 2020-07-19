@@ -1,5 +1,6 @@
 @extends('layout.master')
 @section('title')
+เข้าสู่ระบบ
 @endsection
 @section('content')
 <div class="container">
