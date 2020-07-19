@@ -13,7 +13,7 @@ class HomeController extends Controller
     }
     public function index()
     {
-        return view('index');
+        return view('Home');
     }
     public function create()
     {
